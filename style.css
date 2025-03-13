@@ -1,0 +1,9 @@
+.menu{
+  width: 100%;
+  margin: 0 auto;
+  position: -webkit-sticky;
+  position: sticky;
+}
+.menu li{
+  display: inline;
+}
